@@ -10,4 +10,7 @@ You can test the bot with link below:
 
 Step 1: Install Docker on your computer
 
-Step 2: Run **docker compose up -d**
+Step 2: Run docker compose file
+```
+docker-compose up -d
+```
